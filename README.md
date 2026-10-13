@@ -212,7 +212,7 @@ print(classify_review(
 | `loss-plot.pdf`, `accuracy-plot.pdf` | Training graphs |
 
 The trained weights (`review_classifier.pth`, about 522 MB) are too big for GitHub.
-Download them here: **https://huggingface.co/YOUR-HF-USERNAME/gpt2-spam-classifier**
+Download them here: **https://huggingface.co/vivek2477/gpt2-spam-classifier**
 
 ---
 
