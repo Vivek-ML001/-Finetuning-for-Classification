@@ -107,7 +107,7 @@ We need only **2 answers** (spam or not spam). So we:
 
 **Data**
 
-- Dataset: [SMS Spam Collection](https://huggingface.co/vivek2477/gpt2-spam-classifier)
+- Dataset: [SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
 - We balanced it: **747 spam + 747 not spam** messages (so the model does not just guess the majority class).
 - Split: **70% train / 10% validation / 20% test**
 - Short messages are padded with `<|endoftext|>` (token `50256`) so every message has the same length.
