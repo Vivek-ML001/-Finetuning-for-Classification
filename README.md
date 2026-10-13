@@ -139,9 +139,9 @@ We check accuracy on **data the model never saw** (the test set).
 
 | Dataset | Accuracy |
 |---|---|
-| Training | XX% |
-| Validation | XX% |
-| Test | XX% |
+| Training | 97.21% |
+| Validation | 98.66% |
+| Test | 95.33% |
 
 Training curves:
 
