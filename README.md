@@ -12,6 +12,15 @@ This project follows Chapter 6 of Sebastian Raschka's book *Build a Large Langua
 
 ---
 
+##  Live Demo
+
+The application is built using **Huggingface** and can be deployed as an interactive web application.
+
+**Live App:**  
+https://huggingface.co/spaces/vivek2477/gpt2-spam-classifier
+
+---
+
 ## The Big Idea (in simple words)
 
 GPT-2 was originally trained to do one thing: **guess the next word**.
